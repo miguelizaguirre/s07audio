@@ -1,0 +1,14 @@
+{
+  "audios":{
+    "p0" : "audios/uno.mp3",
+    "p1" : "audios/dos.mp3",
+    "p2" : "audios/tres.mp3",
+    "p3" : "audios/cuatro.mp3"
+  },
+  "colores":{
+    "p0" : "rgba(255, 100, 0, 0.85)",
+    "p1" : "rgba(100, 255, 0, 0.85)",
+    "p2" : "rgba(0, 100, 255, 0.85)",
+    "p3" : "rgba(255, 0, 100, 0.85)"
+  }
+}
