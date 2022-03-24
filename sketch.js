@@ -66,7 +66,7 @@ function setup() {
   rectPosX = width/2;
   rectPosY = height/2;
 
-  boton = createButton('iniciar');
+  boton = createButton('Music!');
   boton.position(width/2-(boton.width/2), height/2 - (boton.height/2));
   boton.mousePressed(miBoton);
 
